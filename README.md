@@ -18,9 +18,6 @@ This Python script is designed to check the health of a web application by sendi
 ```
 /web-health-check-script/
 │
-├── /diagrams/
-│   └── aws-cloudwatch-integration.png      # Diagram showing AWS CloudWatch integration
-│
 ├── /scripts/
 │   └── health_check.py                     # The main Python script
 │
