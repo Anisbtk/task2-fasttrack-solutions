@@ -29,8 +29,6 @@ This Python script is designed to check the health of a web application by sendi
 │       └── health-check-ci.yml             # GitHub Actions workflow (optional for CI/CD)
 │
 ├── README.md                               # Documentation for how to use the script
-│
-└── requirements.txt                        # Dependencies for the Python script (requests library)
 ```
 
 ## Prerequisites
